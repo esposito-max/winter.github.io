@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "507100286034",
+    "project_id": "winter-page",
+    "storage_bucket": "winter-page.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:507100286034:android:bf3d5f2485b5051fc4e38b",
+        "android_client_info": {
+          "package_name": "com.example.winter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxvV_sDci0GZDx2KRJnmqGrjzyoUQCB58"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
